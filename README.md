@@ -33,6 +33,8 @@ Alongside my Microsoft infrastructure work, I also build AI systems focused on r
 
 **Custom reasoning-enhanced LLM + RAG research assistant**
 
+[Repository](https://github.com/SysCd/Reasoning-Enhanced-SLM-2.0)
+
 Built an AI systems lab combining supervised fine-tuning, LoRA adapters, and retrieval-augmented generation to create CortexAI, a research-paper chat assistant.
 
 The project uses a custom Reasoning Blueprint System to generate structured first-principles reasoning data, fine-tunes Mistral-7B-Instruct with LoRA, and adds a Qdrant-backed RAG layer for updatable document knowledge.
