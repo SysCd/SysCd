@@ -25,6 +25,30 @@ This profile highlights practical infrastructure projects that demonstrate cloud
 | Windows Server Active Directory Lab | Windows Server 2022, Active Directory, DNS, GPO, SMB, NTFS | Windows Server 2022, Active Directory, DNS, Group Policy, SMB, NTFS | Completed | [View project](https://github.com/SysCd/windows-server-ad-lab) |
 | Azure Infrastructure Admin Lab | Azure VM, VNet, NSG, secure access, provisioning, hardening | Azure Virtual Machines, Virtual Network, NSG, Bastion, PowerShell | Completed | [View project](https://github.com/SysCd/Azure-Infrastructure-Admin-Lab) |
 
+## Advanced AI Systems & Automation
+
+Alongside my Microsoft infrastructure work, I also build AI systems focused on reasoning workflows, retrieval-augmented generation, technical documentation, and automation.
+
+### CortexAI / Reasoning-Enhanced SLM 2.0
+
+**Custom reasoning-enhanced LLM + RAG research assistant**
+
+Built an AI systems lab combining supervised fine-tuning, LoRA adapters, and retrieval-augmented generation to create CortexAI, a research-paper chat assistant.
+
+The project uses a custom Reasoning Blueprint System to generate structured first-principles reasoning data, fine-tunes Mistral-7B-Instruct with LoRA, and adds a Qdrant-backed RAG layer for updatable document knowledge.
+
+**Pipeline:** Reasoning Blueprints -> 500k JSONL Dataset -> LoRA Fine-Tune -> RAG Retrieval -> CortexAI Chat
+
+**Key points:**
+
+- Designed a Reasoning Blueprint System for first-principles decomposition and systems-style reasoning.
+- Generated a custom ~500k-example supervised fine-tuning dataset.
+- Fine-tuned Mistral-7B-Instruct using LoRA, PEFT, and TRL on Apple Silicon MPS.
+- Built a RAG layer using document ingestion, chunking, OpenAI embeddings, and Qdrant vector search.
+- Separated reasoning behaviour from factual knowledge: LoRA shapes reasoning style, while RAG supplies external context.
+
+**Tech:** Mistral-7B, LoRA, PEFT, TRL, RAG, Qdrant, OpenAI Embeddings, Python
+
 ## Technical Skills
 
 **Microsoft Infrastructure:** Windows Server, Active Directory Domain Services, DNS, Group Policy, SMB, NTFS, server administration
