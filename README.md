@@ -41,15 +41,6 @@ This profile highlights practical infrastructure projects that demonstrate cloud
 
 **Networking:** Azure Virtual Network, NSG rules, secure access, DNS, subnetting, connectivity troubleshooting
 
-## What This Portfolio Demonstrates
-
-- Build Microsoft infrastructure labs from scratch
-- Automate Azure deployments
-- Manage identity and endpoint configuration
-- Use Terraform and CI/CD workflows
-- Monitor and troubleshoot cloud systems
-- Document technical work clearly
-
 ## Contact / Links
 
 - Portfolio: [https://syscd.github.io/EG-Portfolio](https://syscd.github.io/EG-Portfolio)
