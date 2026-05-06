@@ -29,11 +29,11 @@ This profile highlights practical infrastructure projects that demonstrate cloud
 
 Alongside my Microsoft infrastructure work, I also build AI systems focused on reasoning workflows, retrieval-augmented generation, technical documentation, and automation.
 
+| Project | Focus | Technologies | Status | Link |
+| --- | --- | --- | --- | --- |
+| CortexAI / Reasoning-Enhanced SLM 2.0 | Custom reasoning-enhanced LLM + RAG research assistant | Mistral-7B, LoRA, PEFT, TRL, RAG, Qdrant, OpenAI Embeddings, Python | Completed | [View project](https://github.com/SysCd/Reasoning-Enhanced-SLM-2.0) |
+
 ### CortexAI / Reasoning-Enhanced SLM 2.0
-
-**Custom reasoning-enhanced LLM + RAG research assistant**
-
-[Repository](https://github.com/SysCd/Reasoning-Enhanced-SLM-2.0)
 
 Built an AI systems lab combining supervised fine-tuning, LoRA adapters, and retrieval-augmented generation to create CortexAI, a research-paper chat assistant.
 
