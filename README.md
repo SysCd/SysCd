@@ -69,5 +69,5 @@ The project uses a custom Reasoning Blueprint System to generate structured firs
 
 ## Contact / Links
 
-- Portfolio: [https://syscd.github.io/EG-Portfolio](https://syscd.github.io/EG-Portfolio)
+- Portfolio: https://syscdsoftware.com
 - GitHub: [https://github.com/SysCd](https://github.com/SysCd)
