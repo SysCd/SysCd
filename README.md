@@ -19,7 +19,6 @@ This profile highlights practical infrastructure projects that demonstrate cloud
 
 | Project | Focus | Technologies | Status | Link |
 | --- | --- | --- | --- | --- |
-| Azure DevOps Platform Lab | Terraform landing zone, GitHub Actions, Azure DevOps Pipelines, Docker, Azure Container Apps, Azure Monitor | Terraform, GitHub Actions, Azure DevOps, Docker, Azure Container Apps, Azure Monitor | In Progress | [View project](https://github.com/SysCd/azure-devops-platform-lab) |
 | Intune / Autopilot / Endpoint Compliance Lab | Intune, Autopilot, compliance, Conditional Access | Microsoft Intune, Windows Autopilot, Conditional Access, Compliance Policies | Completed | [View project](https://github.com/SysCd/intune-autopilot-endpoint-lab) |
 | Microsoft Identity & Endpoint Lab | Entra ID, Intune, MFA, Conditional Access, PowerShell | Microsoft Entra ID, Intune, MFA, Conditional Access, PowerShell | Completed | [View project](https://github.com/SysCd/Microsoft-Identity-Endpoint-Lab) |
 | Windows Server Active Directory Lab | Windows Server 2022, Active Directory, DNS, GPO, SMB, NTFS | Windows Server 2022, Active Directory, DNS, Group Policy, SMB, NTFS | Completed | [View project](https://github.com/SysCd/windows-server-ad-lab) |
